@@ -24,7 +24,7 @@ I started with with preprocessing data before predicting the target variable whi
 
 
 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/RandomForest.png?raw=true"> Random Forest |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/ConfusionMatrix.png?raw=true"> Confusion Matrix |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/RandomForest.png?raw=true"> Random Forest |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/ConfusionMatrix.png?raw=true"> |
 |:-------------------------:|:-------------------------:|
 
 
