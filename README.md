@@ -1,4 +1,4 @@
-## Wine Project(Python)
+## Red Wine Project(Python)
 
 Data science project completed using Pandas, Seaborn, Matplotlib as well as SKLearn to create different models and predict.
 
