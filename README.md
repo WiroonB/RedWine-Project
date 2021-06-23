@@ -6,7 +6,7 @@ Data science project completed using Pandas, Seaborn, Matplotlib as well as SKLe
 
 **Problem Statement**
 
-Given data of red wines which contains differrent chemical measurements of wine ( Fixed acidity, Volatile acidity, Citric acid,  Residual sugar, Free sulfur dioxide, Total sulfur dioxide, Density, pH, Sulphates, Alcohol, and  quality rating from 1 to 8. Can we predict whether a wine is a good or bad wine. 
+Given data of red wine which contains differrent chemical measurements of wine ( Fixed acidity, Volatile acidity, Citric acid,  Residual sugar, Free sulfur dioxide, Total sulfur dioxide, Density, pH, Sulphates, Alcohol, and  quality rating from 1 to 8. Can we predict whether a wine is a good or bad wine. 
 
 **Approach**
 
