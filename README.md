@@ -22,10 +22,10 @@ I started with with preprocessing data before predicting the target variable whi
 | Weighted SVM | 0.88 | 84.07% | 0.77 |
 | Weighted SVM GridSearch | 0.76 | 90.63% | 0.79 |
 
-| | | 
-|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/RandomForest.png?raw=true"> Random Forest |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/ConfusionMatrix.png?raw=true"> Confusion Matrix ||
 
+
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/RandomForest.png?raw=true"> Random Forest |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/WiroonB/Wine-Project-Python/blob/main/Images/ConfusionMatrix.png?raw=true"> Confusion Matrix |
+|:-------------------------:|:-------------------------:|
 
 
 ### Note
