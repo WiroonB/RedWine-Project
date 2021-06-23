@@ -10,14 +10,17 @@ Given data of red wines which contains differrent chemical measurements of wine 
 
 **Approach**
 
-I started with with preprocessing data before predicting the target variable which is Wine quality and spliting the data into training and testing groups. Then I implemented two diffrent algorithms, which are Random Forest Classifier and Support Vector Machine (SVM) Classifier to model and fit the data. In addition, I also optimized SVM Classifier with Hyper-parameter using GridSearch (GridSearchCV()). To quantify the models, I used the metrics of model accuracy, model classification report (F1 Score, Precision, Accuracy Between Classes, Recall), model confusion matrix and AUC(Area Under the Curve) which is a better measure for accuracy of a binary classification problem.
+I started with with preprocessing data before predicting the target variable which is Wine quality and spliting the data into training and testing groups. Then I implemented two diffrent algorithms, which are Random Forest Classifier and Support Vector Machine (SVM) Classifier to model and fit the data. In addition, I also optimized modles with Hyper-parameter using GridSearch and class weighting. To quantify the models, I used the metrics of model accuracy, model classification report (F1 Score, Precision, Accuracy Between Classes, Recall), model confusion matrix and AUC(Area Under the Curve.)
 
 **Result**
-
-In this notebook, I implemented Random Forest, SVM and SVM with Hyper-parameter tuning. 
-Random Forest : AUC Score: 0.55, Model Accuracy Score 86.88% : , F1 Score : 0.58
-SVM           : AUC Score: 0.62, Model Accuracy Score 87.50% : , F1 Score : 0.65
-SVM GridSearch: AUC Score: 0.65, Model Accuracy Score 89.06% : , F1 Score : 0.69
+| | | | |
+| ----------- | ----------- | ----------- | ----------- |
+| **Model** | **AUC Score** | **Accuracry Score** | **F1 Score** |
+| Random Forest| 0.56 | 86.88% | 0.58 |
+| Weighted Random Forest | 0.76 | 92.19% | 0.81 |
+| SVM | 0.62 | 87.50% | 0.65 |
+| Weighted SVM | 0.88 | 84.07% | 0.77 |
+| Weighted SVM GridSearch | 0.76 | 90.63% | 0.79 |
 
 | | | 
 |:-------------------------:|:-------------------------:|
