@@ -10,7 +10,7 @@ Given data of red wine which contains differrent chemical measurements of wine (
 
 **Approach**
 
-I started with with preprocessing data before predicting the target variable which is Wine quality and spliting the data into training and testing groups. Then I implemented two diffrent algorithms, which are Random Forest Classifier and Support Vector Machine (SVM) Classifier to model and fit the data. In addition, I also optimized models with Hyper-parameter using GridSearch and class weighting. To quantify the models, I used the metrics of model accuracy, model classification report (F1 Score, Precision, Accuracy Between Classes, Recall), model confusion matrix and AUC(Area Under the Curve.)
+I started with with preprocessing data before predicting the target variable which is Wine quality and spliting the data into training and testing groups. Then I implemented two different algorithms, which are Random Forest Classifier and Support Vector Machine (SVM) Classifier to model and fit the data. In addition, I also optimized models with Hyper-parameter using GridSearch and class weighting. To quantify the models, I used the metrics of model accuracy, model classification report (F1 Score, Precision, Accuracy Between Classes, Recall), model confusion matrix and AUC(Area Under the Curve.)
 
 **Result**
 
